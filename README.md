@@ -2,6 +2,8 @@
 
 Aprenda os Principais Fundamentos de Forma Rápida, Simples e Faça Hoje Mesmo seu Primeiro Commit.
 
+## Tarefas
+
 - [ ] Conheça o Playcode Makers! 99% Prática 1% Teoria 
       https://playcode.com.br/makers
 
